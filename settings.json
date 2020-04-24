@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.default.intelliSenseMode": "clang-x64",
+    "C_Cpp.default.includePath": [
+        "/Users/tali/v3.9.0.a5/include/python3.9/"
+    ],
+    
+}
