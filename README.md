@@ -1,2 +1,2 @@
 # mkpython
-make a python vscode project
+make a c++ extension of python vscode project
